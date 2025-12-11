@@ -32,7 +32,10 @@
 
 🌱 Hobbies: In my leisure time, I enjoy reading books, as they help broaden my knowledge and allow me to see the world from different perspectives. I am also passionate about cricket and often play with my friends, which not only brings joy but also helps me stay active and healthy. In addition, I love going on long drives alone, as it gives me a sense of peace, freedom, and time to reflect. These hobbies keep me balanced, refreshed, and motivated in both my personal and academic life.
 <br>
-How to contact me: You can mail me anytime on this mail which is ainulhussain127@gmail.com
+
+
+
+🍵 How to contact me: You can mail me anytime on this mail which is ainulhussain127@gmail.com
 
 
 
