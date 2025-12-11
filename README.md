@@ -18,10 +18,6 @@
  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 
 </div>
-<<<<<<< HEAD
-
-=======
->>>>>>> bdf180bc4a3ddb699d6c5b063443119acd3aed2a
 👀 About me: I am 21 years old and known for being hardworking, dedicated, and eager to learn. I come from a small village near Sialkot, and my background has taught me the value of perseverance and strong determination. I am deeply passionate about computers, especially animation and programming, and I enjoy creating programs that can help people and make their lives easier. My curiosity about new technologies and inventions drives me to constantly explore, learn, and improve. I believe in using creativity, knowledge, and innovation to contribute positively to the world and to grow both personally and professionally. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <br>
@@ -34,7 +30,9 @@
 
 <br>
 
-🌱 Hobbies: In my leisure time, I enjoy reading books, as they help broaden my knowledge and allow me to see the world from different perspectives. I am also passionate about cricket and often play with my friends, which not only brings joy but also helps me stay active and healthy. In addition, I love going on long drives alone, as it gives me a sense of peace, freedom, and time to reflect. These hobbies keep me balanced, refreshed, and motivated in both my personal and academic life. 
+🌱 Hobbies: In my leisure time, I enjoy reading books, as they help broaden my knowledge and allow me to see the world from different perspectives. I am also passionate about cricket and often play with my friends, which not only brings joy but also helps me stay active and healthy. In addition, I love going on long drives alone, as it gives me a sense of peace, freedom, and time to reflect. These hobbies keep me balanced, refreshed, and motivated in both my personal and academic life.
+<br>
+How to contact me: You can mail me anytime on this mail which is ainulhussain127@gmail.com
 
 
 
