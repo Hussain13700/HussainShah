@@ -35,7 +35,7 @@
 
 
 
-🍵 How to contact me: You can mail me anytime on this mail which is ainulhussain127@gmail.com
+ 🤵🏻‍♂ How to contact me: You can contact me anytime through my mail ainulhussain127@gmail.com for further communication 😊.
 
 
 
